@@ -6,3 +6,7 @@ This repo contains a collection of tools for analyzing operational metrics and s
 - Passenger thruput by: Distance Group
 - Service offerings (amenities, concessions, passenger services)
 
+
+## Scripts
+### airportFleetMixYoy.py
+- Conducts year over year analysis of aircraft types used by carriers at various airports. The objective of this tool is to determine how much a fleet mix at each airport has changed over time and flag airports that have seen significant changes. The tool measures change in the utilization of a particular aircraft type based on the percentage the airports total annual passenger thruput who flew on that particular aircraft type. For example, if in 2012 at ORD, 25% of ORD's total passenger thruput flew on the B737 and in 2022, 29% of ORD's total passenger thruput  flew on the B737, the B737 will be flagged with a notable increase in utilization at ORD. Significant shifts in the types of aircrafts utilized at an airport can indicate whether the airport may be in need of capacity expansion as larger aircraft with greater seat capacity may exceed the thruput/flight capacity for which the airport was originally designed. Airports with significant changes in fleet mix are flagged and can be filtered in BI tools such as Power BI using the output data.
