@@ -126,13 +126,13 @@ for apKey in set_airports:
 	apDict[apKey] = {
 		"geo":{"lat":lat,"lon":lon},
 		"metrics_summary":{
-						"arrivals":{"passengers_total":0,"distance_groups":{},"mean_dist":[]},
-						"departures":{"passengers_total":0,"distance_groups":{},"mean_dist":[]}},
+			"arrivals":{"passengers_total":0,"distance_groups":{},"mean_dist":[]},
+			"departures":{"passengers_total":0,"distance_groups":{},"mean_dist":[]}},
 		"Links":{
-				"arrivals":{},
-				"departures":{}
-				}
+			"arrivals":{},
+			"departures":{}
 		}
+	}
 	#"hls":{"psng_tot":0,"psng_prct":0},
 	keys_od = ["_origin","_dest"]
 	for i in range(len(keys_od)):
