@@ -1,0 +1,434 @@
+CODE,DESCRIPTION,MAKE,HAS_DETAILS,SEATS,SEAT_GROUP,OVERALL_LENGTH,WING_SPAN,TAIL_HEIGHT
+643,1124A Westwind II,N/A,F,,,,,
+723,A200-100 BD-500-1A10,N/A,F,,,,,
+724,A220-300 BD-500-1A11,Airbus,T,160,4,"127""0""","115'01""","38'08"""
+103,Aero Commander (500/600 Series Excpt 680FL),Aero,F,,,,,
+611,Aero Commander 1121,Aero,F,,,,,
+7,Aero Commander 200,Aero,F,,,,,
+8,Aero Macchi AL-60,Aero,F,,,,,
+9,Aeronca 7-AC,Aeronca,F,,,,,
+680,Aerospatiale Caravelle SE-210,Aerospatiale,F,,,,,
+613,Aerospatiale Corvette,Aerospatiale,F,,,,,
+441,Aerospatiale/Aeritalia ATR-42,Aerospatiale,F,,,,,
+442,Aerospatiale/Aeritalia ATR-72,Aerospatiale,F,,,,,
+875,Aerospatiale/British Aerospace Concorde,Aerospatiale,F,,,,,
+325,Agusta A-119 Koala,Agusta,F,,,,,
+393,Agustawestland AW139,Agustawestland,F,,,,,
+370,Air Bus Euro Bo-105,Airbus,F,,,,,
+443,Air Tractor AT-802,Air Tractor,F,,,,,
+836,Airbus 350-1000,Airbus,F,,,,,
+824,Airbus A330-900neo,Airbus,F,,,,,
+691,Airbus Industrie A300-600/R/CF/RCF,Airbus,T,274,6,53.9496,44.8056,16.1544
+690,Airbus Industrie A300B/C/F-100/200,Airbus,F,,,,,
+695,Airbus Industrie A300-B2,Airbus,T,269,6,53.34,44.8056,16.1544
+692,Airbus Industrie A310-200C/F,Airbus,T,269,6,53.34,44.8056,16.1544
+693,Airbus Industrie A310-300,Airbus,T,243,5,46.6344,43.8912,15.5448
+644,Airbus Industrie A-318,Airbus,T,132,3,31.45,34.11,12.75
+698,Airbus Industrie A319,Airbus,T,134,3,33.83,34.11,11.89
+719,Airbus Industrie A319-200n,Airbus,T,156,4,33.83,34.11,11.89
+694,Airbus Industrie A320-100/200,Airbus,T,180,4,37.57,34.11,11.84
+722,Airbus Industrie A320-200n,Airbus,T,180,4,37.72,35.81,11.84
+699,Airbus Industrie A321/Lr,Airbus,T,220,5,44.5,34.09,11.84
+721,Airbus Industrie A321-200n,Airbus,T,220,5,44.5,34.09,11.84
+696,Airbus Industrie A330-200,Airbus,T,247,5,59,60.3,17.22
+343,Airbus Industrie A330-223/234,Airbus,T,247,5,59,60.3,17.22
+687,Airbus Industrie A330-300/333,Airbus,T,247,5,59,60.3,17.22
+689,Airbus Industrie A330-600ST (Beluga),Airbus,T,2,1,63.9,60.3,18.8
+339,Airbus Industrie A330-900,Airbus,T,310,7,63.7,64.01,17.15
+697,Airbus Industrie A340,Airbus,T,2,1,59.39,60.3,16.74
+873,Airbus Industrie A340-200,Airbus,T,303,7,59.39,60.3,16.7
+871,Airbus Industrie A340-300,Airbus,T,335,7,63.7,60.3,16.66
+872,Airbus Industrie A340-500,Airbus,T,313,7,67.95,63.45,17.22
+874,Airbus Industrie A340-600,Airbus,T,384,8,75.36,64.45,17.6
+359,Airbus Industrie A350-900,Airbus,T,315,7,66.8,64.74,17.15
+882,Airbus Industrie A380-800,Airbus,T,555,11,72.57,79.76,24.1
+507,Antonov 12,Antonov,T,2,1,,,
+880,Antonov 124,Antonov,T,7,1,69.11,73.3,21.79
+890,Antonov 225 (6 Engine),Antonov,T,6,1,84,88.39,18.24
+444,Antonov 24/26/32,Antonov,T,52,2,,,
+508,Antonov An-22 Freighter,Antonov,F,,,,,
+607,Antonov An-72/74,Antonov,T,52,2,,,
+835,Avroliner RJ85,Avroliner,T,85,2,,,
+510,AW-650,Armstrong Whitworth,F,,,,,
+887,B787-800 Dreamliner,Boeing,T,242,5,56.72,60.12,16.59
+889,B787-900 Dreamliner,Boeing,T,290,6,62.81,60.12,16.81
+401,Beech 1300,Beech,F,,,,,
+405,Beech 1900 A/B/C/D,Beech,F,,,,,
+406,Beech 200 Super Kingair,Beech,F,,,,,
+133,Beech 65/65A-80/65B-80 (Queen Air),Beech,F,,,,,
+403,Beech 99 Airliner,Beech,F,,,,,
+115,Beech AT-11,Beech,F,,,,,
+24,Beech B-23 Musketeer,Beech,F,,,,,
+113,Beech B-95 (Travelair),Beech,F,,,,,
+117,Beech Baron (55 Series),Beech,F,,,,,
+10,Beech Bonanza 35A/C/D/E/G/H/J/K/S/V/  36A,Beech,F,,,,,
+105,Beech C-50 (Twin Bonanza),Beech,F,,,,,
+404,Beech C99,Beech,F,,,,,
+411,Beech King Air 65-A90 Queen Air,Beech,F,,,,,
+111,Beech King Air 90,Beech,F,,,,,
+457,Beech King Air C-90,Beech,F,,,,,
+402,Beech Model 18 Turbo-Prop Conversions,Beech,F,,,,,
+110,"Beechcraft Beech 18 C-185 (Federal Express has waiver to report all its small aircraft under code 110, regardless of actual aircraft type)",Beech,F,,,,,
+409,Beechcraft King Air B100,Beech,F,,,,,
+458,Beechcraft Super King Air,Beech,F,,,,,
+345,Bell 212 Twin Two Twelve,Bell,F,,,,,
+315,Bell B-206A,Bell,F,,,,,
+311,Bell B-47D,Bell,F,,,,,
+312,Bell B-47G,Bell,F,,,,,
+313,Bell B-47G2,Bell,F,,,,,
+314,Bell B-47J2,Bell,F,,,,,
+366,Bell Bht 407,Bell,F,,,,,
+368,Bell Bht 412,Bell,F,,,,,
+20,Bellanca CH-300,Bellanca,F,,,,,
+364,Bht 206 L4 Long Ranger,Bell,F,,,,,
+362,Bht 206 Lt Long Ranger,Bell,F,,,,,
+200,Boeing 377 Stratocruiser,Boeing,T,189,4,46.61,44.42,12.75
+800,Boeing 707-100,Boeing,T,189,4,46.61,44.42,12.75
+802,Boeing 707-100B,Boeing,T,189,4,46.61,44.42,12.75
+804,Boeing 707-200,Boeing,T,189,4,46.61,44.42,12.75
+806,Boeing 707-300,Boeing,T,189,4,46.61,44.42,12.75
+808,Boeing 707-300B,Boeing,T,189,4,46.61,44.42,12.75
+809,Boeing 707-300C,Boeing,T,189,4,46.61,44.42,12.75
+810,Boeing 707-400,Boeing,T,189,4,46.61,44.42,12.75
+608,Boeing 717-200,Boeing,T,117,3,37.8,28.45,8.76
+812,Boeing 720-000,Boeing,T,156,4,41.68,39.88,12.34
+814,Boeing 720-000B,Boeing,T,156,4,41.68,39.88,12.34
+710,Boeing 727-100,Boeing,T,155,4,46.69,32.92,9.63
+711,Boeing 727-100C/QC,Boeing,T,155,4,46.69,32.92,9.63
+715,Boeing 727-200/231A,Boeing,T,155,4,46.69,32.92,9.63
+737,Boeing 737 Max 7,Boeing,T,172,4,35.56,35.92,11.84
+620,Boeing 737-100/200,Boeing,T,130,3,,,
+621,Boeing 737-200C,Boeing,T,56,2,30.53,28.35,11.23
+619,Boeing 737-300,Boeing,T,149,3,33.4,28.88,11.07
+618,Boeing 737-300LR,Boeing,T,149,3,33.4,28.88,11.07
+617,Boeing 737-400,Boeing,T,168,4,36.45,28.88,11.07
+615,Boeing 737-5/600LR,Boeing,T,132,3,31.01,28.88,11.07
+616,Boeing 737-500,Boeing,T,132,3,31.01,28.88,11.07
+633,Boeing 737-600,Boeing,T,130,3,31.24,34.32,12.45
+612,Boeing 737-700/700LR/Max 7,Boeing,T,172,4,35.56,35.92,11.84
+614,Boeing 737-800,Boeing,T,184,4,39.47,34.32,12.37
+634,Boeing 737-900,Boeing,T,215,5,42.11,34.32,12.37
+888,Boeing 737-900ER,Boeing,T,215,5,42.11,34.32,12.37
+816,Boeing 747-100,Boeing,T,480,10,70.66,59.64,18.34
+817,Boeing 747-200/300,Boeing,T,624,11,70.66,64.92,18.77
+823,Boeing 747-200F,Boeing,T,2,1,70.66,64.92,18.87
+819,Boeing 747-400,Boeing,T,624,11,70.66,64.92,18.77
+820,Boeing 747-400F,Boeing,T,2,1,70.66,64.92,18.77
+818,Boeing 747C,Boeing,T,331,7,563.1,59.64,19.84
+822,Boeing 747SP,Boeing,T,331,7,563.1,59.64,19.84
+622,Boeing 757-200,Boeing,T,186,4,47.32,38.05,13.49
+623,Boeing 757-300,Boeing,T,290,6,54.94,47.57,15.39
+625,Boeing 767-200/ER/EM,Boeing,T,245,5,48.51,47.57,15.6
+626,Boeing 767-300/300ER,Boeing,T,290,6,54.94,47.57,15.39
+624,Boeing 767-400/ER,Boeing,T,409,9,61.37,51.92,16.69
+627,Boeing 777-200ER/200LR/233LR,Boeing,T,301,7,63.73,64.8,18.49
+637,Boeing 777-300/300ER/333ER,Boeing,T,378,8,73.86,64.8,18.24
+837,Boeing 787-10 Dreamliner,Boeing,T,330,7,68.3,60.12,16.89
+838,Boeing B737 Max 800,Boeing,T,210,5,39.47,35.92,11.86
+839,Boeing B737 Max 900,Boeing,T,220,5,42.11,35.92,11.89
+885,Boeing B737-Max10,Boeing,T,230,5,43.79,35.92,12.45
+821,Boeing B747-8,Boeing,T,467,10,76.25,68.4,18.97
+683,Boeing B777-F,Boeing,T,2,1,63.73,64.8,18.57
+320,Boeing Vertol BV-107,Boeing,F,,,,,
+321,Boeing Vertol BV-44,Boeing,F,,,,,
+330,Boelkow Bo-105c,Boelkow,F,,,,,
+515,Bomardier Challenger 350,Bomardier,F,,,,,
+659,Bombardier (Gates) Learjet 60,Bomardier,F,,,,,
+609,Bombardier BD-100-1A10 Challenger 300,Bomardier,F,,,,,
+658,Bombardier BD-700 Global Express,Bomardier,F,,,,,
+720,A220-100,Airbus,T,135,3,,Bombardier C Series Cs100,
+669,Bombardier Challenger 604/605,Bomardier,F,,,,,
+657,Bombardier CRJ 705,Bomardier,F,,,,,
+530,Bombardier CRJ550,Bomardier,F,,,,,
+688,Bombardier Global 5000,Bomardier,F,,,,,
+788,Bombardier Global 6000/Global Xrs,Bomardier,F,,,,,
+751,Bombardier Global 7500 BD-7500,Bomardier,F,,,,,
+575,Bombardier Learjet 75,Bomardier,F,,,,,
+322,Brantley B-2,Brantley,F,,,,,
+407,British Aerospace (Hawker-Siddeley) BAe-748,British Aerospace,F,,,,,
+605,British Aerospace BAC-111-200,British Aerospace,F,,,,,
+610,British Aerospace BAC-111-400,British Aerospace,F,,,,,
+866,British Aerospace BAe-146-100/RJ70,British Aerospace,T,80,2,26.19,26.34,8.61
+867,British Aerospace BAe-146-200,British Aerospace,T,100,2,28.6,26.4,8.61
+868,British Aerospace BAe-146-300,British Aerospace,T,112,3,30.99,26.34,8.59
+408,British Aerospace BAe-ATP,British Aerospace,F,,,,,
+469,British Aerospace Jetstream 31,British Aerospace,F,,,,,
+471,British Aerospace Jetstream 41,British Aerospace,F,,,,,
+130,C-28 5ACF PBY,N/A,F,,,,,
+132,C-28 5ACF-PBY-EMQ,N/A,F,,,,,
+668,Canadair (Bombardier) Challlenger 601,Bombardier,F,,,,,
+520,Canadair CL-44D,Bombardier,F,,,,,
+652,Canadair CL-600 Challenger,Bombardier,F,,,,,
+638,Canadair CRJ 900,Bombardier,F,,,,,
+628,Canadair RJ-100/RJ-100ER,Bombardier,F,,,,,
+629,Canadair RJ-200ER /RJ-440,Bombardier,F,,,,,
+631,Canadair RJ-700,Bombardier,F,,,,,
+488,Carstedt CJ-600A,N/A,F,,,,,
+413,Casa 235,N/A,F,,,,,
+412,Casa/Nurtanio C212 Aviocar,N/A,F,,,,,
+29,Cessna 150/152,Cessna,F,,,,,
+36,Cessna 172 Skyhawk,Cessna,F,,,,,
+38,Cessna 177 Cardinal,Cessna,F,,,,,
+30,Cessna 180,Cessna,F,,,,,
+31,Cessna 180A/B,Cessna,F,,,,,
+32,Cessna 180C/D/E/F,Cessna,F,,,,,
+39,Cessna 182 Skylane,Cessna,F,,,,,
+33,Cessna 185A/B/C Skywagon,Cessna,F,,,,,
+37,Cessna 195,Cessna,F,,,,,
+41,Cessna 205,Cessna,F,,,,,
+416,Cessna 208 Caravan,Cessna,F,,,,,
+128,Cessna 404,Cessna,F,,,,,
+417,Cessna 406 Caravan II,Cessna,F,,,,,
+685,Cessna 510 Mustang/560XL Citation Excel,Cessna,F,,,,,
+35,Cessna C206/207/209/210 Stationair,Cessna,F,,,,,
+415,Cessna C208B/Grand Caravan,Cessna,F,,,,,
+122,Cessna C-310 Series,Cessna,F,,,,,
+166,Cessna C-336,Cessna,F,,,,,
+148,Cessna C-337 (Super Sky Master),Cessna,F,,,,,
+123,Cessna C-340/335,Cessna,F,,,,,
+149,Cessna C-401,Cessna,F,,,,,
+125,Cessna C-402/402A/402B,Cessna,F,,,,,
+152,Cessna C-411,Cessna,F,,,,,
+121,Cessna C-421,Cessna,F,,,,,
+418,Cessna C-441,Cessna,F,,,,,
+653,Cessna CE-680 Citation Sovereign,Cessna,F,,,,,
+636,Cessna Citation II/ Bravo,Cessna,F,,,,,
+646,Cessna Citation X Model 650/550B/550XL,Cessna,F,,,,,
+647,Cessna Citation X Model CE750 X,Cessna,F,,,,,
+639,Cessna Citationjet/CJ1/CJ2/CJ3,Cessna,F,,,,,
+120,Cessna T-50 (Bobcat),Cessna,F,,,,,
+825,Convair 880 (CV-22/22m),Convair,F,,,,,
+830,Convair 990 Coronado (CV-30),Convair,F,,,,,
+140,Convair CV-240,Convair,F,,,,,
+143,Convair CV-340/440,Convair,F,,,,,
+420,Convair CV-540,Convair,F,,,,,
+430,Convair CV-580,Convair,F,,,,,
+435,Convair CV-600,Convair,F,,,,,
+440,Convair CV-640,Convair,F,,,,,
+445,Convair CV-660,Convair,F,,,,,
+150,Curtiss C46/20t/A/D/F/R Commando,Curtiss,F,,,,,
+774,Dassault Falcon 2000,Dassault,F,,,,,
+682,Dassault Falcon 2000EX/2000lxs,Dassault,F,,,,,
+771,Dassault Falcon 50,Dassault,F,,,,,
+775,Dassault Falcon 7X,Dassault,F,,,,,
+725,Dassault Falcon 8x,Dassault,F,,,,,
+770,Dassault Falcon 900/900EX,Dassault,F,,,,,
+681,Dassault-Breguet Mystere-Falcon,Dassault,F,,,,,
+205,De Havilland DH-114 Heron,De Havilland,F,,,,,
+40,De Havilland DHC2 Beaver,De Havilland,F,,,,,
+42,De Havilland DHC3 Otter,De Havilland,F,,,,,
+153,De Havilland DHC4 Caribou,De Havilland,F,,,,,
+570,De Havilland DHC7 Dash-7,De Havilland,F,,,,,
+483,De Havilland DHC8-100 Dash-8,De Havilland,F,,,,,
+491,De Havilland DHC8-200Q Dash-8,De Havilland,F,,,,,
+484,De Havilland DHC8-300 Dash 8,De Havilland,F,,,,,
+482,De Havilland DHC8-400 Dash-8,De Havilland,F,,,,,
+174,De Havilland Dove DH-104,De Havilland,F,,,,,
+485,De Havilland Twin Otter DHC-6,De Havilland,F,,,,,
+395,DHC-6-400 Twin Otter,De Havilland,F,,,,,
+448,Dornier 228,Dornier,F,,,,,
+449,Dornier 328,Dornier,F,,,,,
+632,Dornier 328 Jet,Dornier,F,,,,,
+161,Dornier Do-28 Skyservant,Dornier,F,,,,,
+746,Emb500 Phenom 100/300,Embraer,F,,,,,
+678,Embraer 190,Embraer,T,114,3,36.25,28.73,10.29
+464,Embraer EMB-110 Bandeirante,Embraer,F,,,,,
+461,Embraer EMB-120 Brasilia,Embraer,F,,,,,
+748,Embraer EMB195,Embraer,T,124,3,38.66,28.73,10.31
+673,Embraer ERJ-175,Embraer,T,88,2,31.67,26.01,9.55
+745,Embraer Legacy 500,Embraer,T,50,1,29.87,20.04,6.63
+755,Embraer Legacy 600,Embraer,T,50,1,29.87,20.04,6.63
+833,Embraer Legacy 650,Embraer,T,50,1,29.87,20.04,6.63
+674,Embraer-135,Embraer,T,37,1,26.34,20.04,6.65
+676,Embraer-140,Embraer,T,37,1,26.34,20.04,6.65
+675,Embraer-145,Embraer,T,37,1,26.34,20.04,6.65
+677,Embraer-Emb-170,Embraer,T,78,2,29.9,26.01,9.58
+340,Eurocompter AS350 B2 AStar,Eurocopter,F,,,,,
+167,Fairchild C-82A,Fairchild,F,,,,,
+455,Fairchild Metro 23,Fairchild,F,,,,,
+323,Fairchild-Hiller FH-1100,Fairchild,F,,,,,
+454,Fairchild-Hiller FH-227,Fairchild,F,,,,,
+93,Float/Amphib Piston-450+ Hp,N/A,F,,,,,
+92,Float/Amphib Piston-Lt 450 Hp,N/A,F,,,,,
+91,Float/Amphib Turbine,N/A,F,,,,,
+603,Fokker 100,Fokker,F,,,,,
+452,Fokker 50,Fokker,F,,,,,
+604,Fokker 70,Fokker,F,,,,,
+601,Fokker F28-1000 Fellowship,Fokker,F,,,,,
+602,Fokker F28-4000/6000 Fellowship,Fokker,F,,,,,
+450,Fokker Friendship F-27/Fairchild F-27/A/B/F/J,Fokker,F,,,,,
+660,Gates Learjet Lear-23,Learjet,F,,,,,
+661,Gates Learjet Lear-24,Learjet,F,,,,,
+662,Gates Learjet Lear-25,Learjet,F,,,,,
+663,Gates Learjet Lear-31/35/36,Learjet,F,,,,,
+26,Gipps Aero Ga8 Airvan,Gipps Aero,F,,,,,
+104,Grand Commander 680FL,N/A,F,,,,,
+679,Grumman G-1159 Gulfstream II/III,Grumman,F,,,,,
+170,Grumman G-21A (Goose),Grumman,F,,,,,
+460,Grumman G-21G (Turbo-Goose),Grumman,F,,,,,
+172,Grumman G-44/44A (Widgeon),Grumman,F,,,,,
+173,Grumman G-73 (Mallard),Grumman,F,,,,,
+171,Grumman SA-16A-GR (Albatross),Grumman,F,,,,,
+749,Gulfstream Aerospace G500,Gulfstream,F,,,,,
+641,Gulfstream Aerospace G-III/G-IV,Gulfstream,F,,,,,
+651,Gulfstream G150,Gulfstream,F,,,,,
+648,Gulfstream G200,Gulfstream,F,,,,,
+671,Gulfstream G450,Gulfstream,F,,,,,
+750,Gulfstream G650,Gulfstream,F,,,,,
+470,Gulfstream I,Gulfstream,F,,,,,
+473,Gulfstream I-Commander,Gulfstream,F,,,,,
+667,Gulfstream III/V/ G-V Exec/ G-5/550,Gulfstream,F,,,,,
+159,Hamilton B-18s Little Liner (Converted),N/A,F,,,,,
+468,Handley Page Jetstream,N/A,F,,,,,
+495,Hawker Beechcraft Hawker 4000,N/A,F,,,,,
+665,Hawker Siddeley 125,N/A,F,,,,,
+474,Hawker Siddeley 748,N/A,F,,,,,
+34,Helio H-250/295/395,N/A,F,,,,,
+664,HFB-320 Hansa,N/A,F,,,,,
+50,Howard DGA-15P,N/A,F,,,,,
+317,Hu-1h 204B,N/A,F,,,,,
+350,Hughes 300,N/A,F,,,,,
+355,Hughes-500/530,N/A,F,,,,,
+881,Ilyushiin Il-96-400t,N/A,F,,,,,
+876,Ilyushin 62,N/A,F,,,,,
+877,Ilyushin 76/TD,N/A,F,,,,,
+878,Ilyushin 86,N/A,F,,,,,
+879,Ilyushin 96,N/A,F,,,,,
+541,Ilyushin Il-18,N/A,F,,,,,
+44,Lake LA-4,N/A,F,,,,,
+96,Land-Piston-450+ Hp,N/A,F,,,,,
+95,Land-Piston-Lt 450 Hp,N/A,F,,,,,
+94,Land-Turbine,N/A,F,,,,,
+666,Lear 55,N/A,F,,,,,
+686,Learjet45,N/A,F,,,,,
+870,Lockheed Jetstar,Lockheed,F,,,,,
+240,Lockheed L-049,Lockheed,F,,,,,
+553,Lockheed L100-10 Hercules,Lockheed,F,,,,,
+555,Lockheed L100-20 Hercules,Lockheed,F,,,,,
+556,Lockheed L100-30/L-382E,Lockheed,F,,,,,
+760,Lockheed L-1011-1/100/200,Lockheed,F,,,,,
+765,Lockheed L-1011-500 Tristar,Lockheed,F,,,,,
+247,Lockheed L-1049,Lockheed,F,,,,,
+248,Lockheed L-1049C/D/E,Lockheed,F,,,,,
+252,Lockheed L-1049G/H,Lockheed,F,,,,,
+175,Lockheed L-12A/L-10/10A,Lockheed,F,,,,,
+258,Lockheed L-1649A,Lockheed,F,,,,,
+550,Lockheed L-188A/C Electra,Lockheed,F,,,,,
+552,Lockheed L-382B,Lockheed,F,,,,,
+242,Lockheed L-649,Lockheed,F,,,,,
+244,Lockheed L-749/749A,Lockheed,F,,,,,
+180,Martin 202/202A,Martin,F,,,,,
+185,Martin 404,Martin,F,,,,,
+730,McDonnell Douglas DC-10-10,McDonnell Douglas,T,399,8,55.55,47.35,17.48
+731,McDonnell Douglas DC-10-20,McDonnell Douglas,T,399,8,55.55,47.35,17.48
+732,McDonnell Douglas DC-10-30,McDonnell Douglas,T,399,8,55.55,50.39,17.42
+735,McDonnell Douglas DC-10-30CF,McDonnell Douglas,F,,,55.55,50.39,17.42
+733,McDonnell Douglas DC-10-40,McDonnell Douglas,F,,,55.55,50.39,17.42
+158,McDonnell Douglas DC-2,McDonnell Douglas,F,,,,,
+160,"McDonnell Douglas DC-3/A/C,C-47/B",McDonnell Douglas,F,,,,,
+210,McDonnell Douglas DC-4(C54/C54A/C54B/C54E),McDonnell Douglas,F,,,,,
+216,McDonnell Douglas DC-6,McDonnell Douglas,T,68,2,,,
+218,McDonnell Douglas DC-6A,McDonnell Douglas,T,68,2,,,
+220,McDonnell Douglas DC-6B,McDonnell Douglas,T,68,2,,,
+225,McDonnell Douglas DC-7A/B,McDonnell Douglas,F,,,,,
+228,McDonnell Douglas DC-7C,McDonnell Douglas,F,,,,,
+840,McDonnell Douglas DC-8-10,McDonnell Douglas,T,268,6,,,
+842,McDonnell Douglas DC-8-20,McDonnell Douglas,T,268,6,,,
+844,McDonnell Douglas DC-8-30,McDonnell Douglas,T,268,6,,,
+846,McDonnell Douglas DC-8-40,McDonnell Douglas,T,268,6,,,
+848,McDonnell Douglas DC-8-50,McDonnell Douglas,T,268,6,,,
+850,McDonnell Douglas DC-8-50F,McDonnell Douglas,F,,,,,
+851,McDonnell Douglas DC-8-61,McDonnell Douglas,T,268,6,,,
+854,McDonnell Douglas DC-8-62,McDonnell Douglas,T,268,6,,,
+856,McDonnell Douglas DC-8-63,McDonnell Douglas,T,268,6,,,
+852,McDonnell Douglas DC-8-63F,McDonnell Douglas,F,,,,,
+860,McDonnell Douglas DC-8-71,McDonnell Douglas,T,268,6,,,
+862,McDonnell Douglas DC-8-72,McDonnell Douglas,T,268,6,,,
+864,McDonnell Douglas DC-8-73,McDonnell Douglas,T,268,6,,,
+865,McDonnell Douglas DC-8-73F,McDonnell Douglas,,,,,,
+655,McDonnell Douglas DC9 Super 80/MD81/82/83/88,McDonnell Douglas,T,139,3,,,
+654,McDonnell Douglas DC9 Super 87,McDonnell Douglas,T,139,3,,,
+630,McDonnell Douglas DC-9-10,McDonnell Douglas,T,139,3,,,
+635,McDonnell Douglas DC-9-15F,McDonnell Douglas,T,139,3,,,
+640,McDonnell Douglas DC-9-30,McDonnell Douglas,T,139,3,,,
+645,McDonnell Douglas DC-9-40,McDonnell Douglas,T,125,3,,,
+650,McDonnell Douglas DC-9-50,McDonnell Douglas,T,139,3,,,
+740,McDonnell Douglas MD-11,McDonnell Douglas,T,410,9,61.62,51.97,17.53
+656,McDonnell Douglas MD-90,McDonnell Douglas,T,172,4,46.51,32.87,9.27
+463,Mitsubishi MU-2/B,Mitsubishi,F,,,,,
+477,Mohawk 298,Aerospatiale,F,,,,,
+52,Mooney M-20C/E/G,N/A,F,,,,,
+51,Mooney M-21,N/A,F,,,,,
+717,Mrj-70/Std/ER/Lr,N/A,F,,,,,
+718,Mrj-90/Std/Sr/Lr,N/A,F,,,,,
+465,Nihon YS-11,N/A,F,,,,,
+65,Noorduyn UC-64AS,N/A,F,,,,,
+475,Nord 262,N/A,F,,,,,
+102,P2012 Traveler,N/A,F,,,,,
+425,Piaggio P180 Avanti,N/A,F,,,,,
+131,Pilatus Britten-Norman BN2/A Islander,N/A,F,,,,,
+201,Pilatus Britten-Norman BN2A Trislander,N/A,F,,,,,
+479,Pilatus PC-12,N/A,F,,,,,
+70,Pilatus Porter PC6,N/A,F,,,,,
+71,Pilatus Porter PC6/350,N/A,F,,,,,
+480,Pilatus Turbo Porter PC-6A,N/A,F,,,,,
+481,Pilatus Turbo Porter PC-6B,N/A,F,,,,,
+86,Piper PA-12 (Supercruiser),Piper,F,,,,,
+81,Piper PA-14 (Family-Cruiser),Piper,F,,,,,
+80,Piper PA-18 (Super-Cub),Piper,F,,,,,
+82,Piper PA-22 (Tri-Pacer),Piper,F,,,,,
+190,Piper PA-23-250 (Aztec/Apache),Piper,F,,,,,
+83,Piper PA-24 (Comanche),Piper,F,,,,,
+84,Piper PA-28 (Cherokee),Piper,F,,,,,
+476,Piper PA-30/31T Cheyenne II XL,Piper,F,,,,,
+194,Piper PA-31 (Navajo)/T-1020,Piper,F,,,,,
+79,Piper PA-32 (Cherokee 6),Piper,F,,,,,
+195,Piper PA-34/39 (Twin Commanche),Piper,F,,,,,
+193,Piper T-1020,Piper,F,,,,,
+478,Piper T-1040,Piper,F,,,,,
+451,Pipistrel D O O Virus Sw 121c,N/A,F,,,,,
+422,Quest Kodiak 100,N/A,F,,,,,
+437,Raytheon Beechcraft Baron B-58,Raytheon,F,,,,,
+642,Raytheon Beechcraft Hawker 400XP,Raytheon,F,,,,,
+684,Raytheon Beechcraft Hawker 800XP,Raytheon,F,,,,,
+606,Raytheon Beechraft 390 Premier I,Raytheon,F,,,,,
+434,Raytheon King Air A100,Raytheon,F,,,,,
+360,Robinson R44,Robinson,F,,,,,
+670,Rockwell Sabreliner,N/A,F,,,,,
+410,Rockwell Turbo-Commander 680-W/690,N/A,F,,,,,
+432,Saab 2000,Saab,F,,,,,
+459,Saab-Fairchild 340/A,Saab,F,,,,,
+456,Saab-Fairchild 340/B,Saab,F,,,,,
+487,Shorts 330,N/A,F,,,,,
+489,Shorts 360,N/A,F,,,,,
+560,Shorts Belfast Freighter-Sh5,N/A,F,,,,,
+486,Shorts Harland SC-7 Skyvan,N/A,F,,,,,
+380,Sikorsky S-51,N/A,F,,,,,
+381,Sikorsky S-55,N/A,F,,,,,
+385,Sikorsky S-58A/B/C,N/A,F,,,,,
+387,Sikorsky S-61,N/A,F,,,,,
+388,Sikorsky S-61L,N/A,F,,,,,
+386,Sikorsky S-61N,N/A,F,,,,,
+389,Sikorsky S-62/A,N/A,F,,,,,
+390,Sikorsky S-76,N/A,F,,,,,
+280,Sikorsky VS-44A (Amphibian),N/A,F,,,,,
+433,Socata TBM-700,N/A,F,,,,,
+431,Socata TBM850,N/A,F,,,,,
+98,Stinson 0-299 Hp,N/A,F,,,,,
+97,Stinson F.W. 300-450 Hp,N/A,F,,,,,
+88,Stinson SR-10E Bushman,N/A,F,,,,,
+85,Stinson SR-9,N/A,F,,,,,
+87,Stinson V-77,N/A,F,,,,,
+303,Sud Alouette,N/A,F,,,,,
+714,Sukhoi Superjet 100,N/A,F,,,,,
+466,Swearingen Metro II,N/A,F,,,,,
+467,Swearingen Metro III,N/A,F,,,,,
+462,Swearingen Metro Merlin,N/A,F,,,,,
+780,Tupolev TU-154,N/A,F,,,,,
+649,Tupolev TU-204-300,N/A,F,,,,,
+999,Used for capturing expenses not attributed to specific aircraft types,N/A,F,,,,,
+580,Vickers Viscount 700/744/745/745D,N/A,F,,,,,
+584,Vickers Viscount V800/810/812,N/A,F,,,,,
+490,Volpar Turbo 18,N/A,F,,,,,
+396,Westland SR-N5 (Acv),N/A,F,,,,,
+792,Yakolev Yak-42,N/A,F,,,,,
