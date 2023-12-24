@@ -1,0 +1,253 @@
+WAC_CODE,WAC_DESC,REGION,HEMISPHERE
+3,Puerto Rico,South/Latin America,Global South
+11,Connecticut,North America,Global North
+12,Maine,North America,Global North
+13,Massachusetts,North America,Global North
+14,New Hampshire,North America,Global North
+15,Rhode Island,North America,Global North
+16,Vermont,North America,Global North
+21,New Jersey,North America,Global North
+22,New York,North America,Global North
+23,Pennsylvania,North America,Global North
+31,Delaware,North America,Global North
+32,District of Columbia,North America,Global North
+33,Florida,North America,Global North
+34,Georgia,Europe,Global North
+35,Maryland,North America,Global North
+36,North Carolina,North America,Global North
+37,South Carolina,North America,Global North
+38,Virginia,North America,Global North
+39,West Virginia,North America,Global North
+41,Illinois,North America,Global North
+42,Indiana,North America,Global North
+43,Michigan,North America,Global North
+44,Ohio,North America,Global North
+45,Wisconsin,North America,Global North
+51,Alabama,North America,Global North
+52,Kentucky,North America,Global North
+53,Mississippi,North America,Global North
+54,Tennessee,North America,Global North
+61,Iowa,North America,Global North
+62,Kansas,North America,Global North
+63,Minnesota,North America,Global North
+64,Missouri,North America,Global North
+65,Nebraska,North America,Global North
+66,North Dakota,North America,Global North
+67,South Dakota,North America,Global North
+71,Arkansas,North America,Global North
+72,Louisiana,North America,Global North
+73,Oklahoma,North America,Global North
+74,Texas,North America,Global North
+81,Arizona,North America,Global North
+82,Colorado,North America,Global North
+83,Idaho,North America,Global North
+84,Montana,North America,Global North
+85,Nevada,North America,Global North
+86,New Mexico,North America,Global North
+87,Utah,North America,Global North
+88,Wyoming,North America,Global North
+91,California,North America,Global North
+92,Oregon,North America,Global North
+93,Washington,North America,Global North
+106,Belize,South/Latin America,Global South
+110,Costa Rica,South/Latin America,Global South
+118,El Salvador,South/Latin America,Global South
+127,Guatemala,South/Latin America,Global South
+131,Honduras,South/Latin America,Global South
+148,Mexico,South/Latin America,Global South
+153,Nicaragua,South/Central America,Global South
+162,Panama,South/Latin America,Global South
+202,Anguilla,South/Latin America,Global South
+204,Bahamas,South/Latin America,Global South
+205,Barbados,South/Latin America,Global South
+206,Antigua and Barbuda,South/Latin America,Global South
+207,Bermuda,South/Latin America,Global South
+219,Cuba,South/Latin America,Global South
+221,Dominica,South/Latin America,Global South
+224,Dominican Republic,South/Latin America,Global South
+233,Cayman Islands,South/Latin America,Global South
+235,Guadeloupe,South/Latin America,Global South
+236,Saint Martin,South/Latin America,Global South
+237,Saint Barthelemy,South/Latin America,Global South
+238,Haiti,South/Latin America,Global South
+243,Jamaica,South/Latin America,Global South
+252,Martinique,South/Latin America,Global South
+256,Montserrat,South/Latin America,Global South
+259,Netherlands Antilles,South/Latin America,Global South
+268,Puerto Rico,South/Latin America,Global South
+277,Aruba,South/Latin America,Global South
+280,Trinidad and Tobago,South/Latin America,Global South
+281,Turks and Caicos Islands,South/Latin America,Global South
+303,Argentina,South/Latin America,Global South
+312,Bolivia,South/Latin America,Global South
+316,Brazil,South/Latin America,Global South
+324,Chile,South/Latin America,Global South
+327,Colombia,South/Latin America,Global South
+337,Ecuador,South/Latin America,Global South
+344,French Guiana,South/Latin America,Global South
+350,Guyana,South/Latin America,Global South
+365,Paraguay,South/Latin America,Global South
+368,Peru,South/Latin America,Global South
+379,Suriname,South/Latin America,Global South
+385,Uruguay,South/Latin America,Global South
+388,Venezuela,South/Latin America,Global South
+401,Albania,Europe,Global North
+402,Andorra,Europe,Global North
+403,Austria,Europe,Global North
+405,Armenia,Europe,Global North
+407,Azerbaijan,Asia & Pacific,Global North
+409,Belgium,Europe,Global North
+410,Bosnia and Herzegovina,Europe,Global North
+411,Bulgaria,Europe,Global North
+413,Belarus,Europe,Global North
+415,Croatia,Europe,Global North
+418,Czech Republic,Europe,Global North
+419,Denmark,Europe,Global North
+422,Estonia,Europe,Global North
+425,Finland,Europe,Global North
+427,France,Europe,Global North
+429,Germany,Europe,Global North
+431,Gibraltar,Europe,Global North
+432,Georgia,Europe,Global North
+433,Greece,Europe,Global North
+437,Hungary,Europe,Global North
+439,Iceland,Europe,Global North
+441,Ireland,Europe,Global North
+450,Italy,Europe,Global North
+451,Latvia,Europe,Global North
+452,Lithuania,Europe,Global North
+453,Liechtenstein,Europe,Global North
+454,Luxembourg,Europe,Global North
+455,Macedonia,Europe,Global North
+456,Malta,Europe,Global North
+458,Monaco,Europe,Global North
+459,Montenegro,Europe,Global North
+461,Netherlands,Europe,Global North
+465,Norway,Europe,Global North
+467,Poland,Europe,Global North
+469,Portugal,Europe,Global North
+473,Romania,Europe,Global North
+479,San Marino,Europe,Global North
+480,Serbia,Europe,Global North
+481,Slovenia,Europe,Global North
+482,Spain,Europe,Global North
+483,Slovakia,Europe,Global North
+484,Sweden,Europe,Global North
+486,Switzerland,Europe,Global North
+488,Ukraine,Europe,Global North
+493,United Kingdom,Europe,Global North
+500,Algeria,Arab States,Global South
+501,South Sudan,Africa,Global South
+502,Angola,Africa,Global South
+503,Burundi,Africa,Global South
+504,Cameroon,Africa,Global South
+509,Central African Republic,Africa,Global South
+510,Botswana,Africa,Global South
+511,Chad,Africa,Global South
+513,Comoros,Arab States,Global South
+519,Benin,Africa,Global South
+521,Equatorial Guinea,Africa,Global South
+522,Ethiopia,Africa,Global South
+523,Eritrea,Africa,Global South
+525,Djibouti,Arab States,Global South
+526,Gabon,Africa,Global South
+529,Ghana,Africa,Global South
+531,Guinea,Africa,Global South
+535,Kenya,Africa,Global South
+536,Lesotho,Africa,Global South
+537,Liberia,Africa,Global South
+538,Libya,Middle east,Global South
+541,Madagascar,Africa,Global South
+542,Malawi,Africa,Global South
+543,Mali,Africa,Global South
+545,Mauritania,Arab States,Global South
+546,Mauritius,Africa,Global South
+547,Mayotte,Africa,Global South
+548,Morocco,Arab States,Global South
+550,Mozambique,Africa,Global South
+554,Niger,Africa,Global South
+555,Nigeria,Africa,Global South
+559,Guinea-Bissau,Africa,Global South
+562,South Africa,Africa,Global South
+565,Zimbabwe,Africa,Global South
+566,Rwanda,Africa,Global South
+567,Sao Tome and Principe,Africa,Global South
+569,Senegal,Africa,Global South
+571,Sierra Leone,Africa,Global South
+573,Somalia,Arab States,Global South
+575,Namibia,Africa,Global South
+583,Sudan,Arab States,Global South
+586,Togo,Africa,Global South
+588,Tunisia,Arab States,Global South
+590,Uganda,Africa,Global South
+591,Egypt,Middle east,Global South
+593,Burkina Faso,Africa,Global South
+597,Zambia,Africa,Global South
+605,Bahrain,Arab States,Global South
+611,Cyprus,Europe,Global North
+634,Iraq,Middle east,Global South
+636,Israel,Middle east,Global North
+639,Jordan,Middle east,Global South
+644,Kuwait,Middle east,Global South
+647,Lebanon,Middle east,Global South
+658,Oman,Middle east,Global South
+664,Qatar,Middle east,Global South
+670,Saudi Arabia,Middle east,Global South
+678,United Arab Emirates,Middle east,Global South
+679,Turkey,Europe,Global North
+694,Yemen,Middle east,Global South
+701,Afghanistan,Asia & Pacific,Global South
+702,Bhutan,Asia & Pacific,Global South
+703,Bangladesh,Asia & Pacific,Global South
+706,Myanmar,Asia & Pacific,Global South
+707,British Indian Ocean Territory,Asia & Pacific,Global South
+709,Cambodia,Asia & Pacific,Global South
+711,Sri Lanka,Asia & Pacific,Global South
+713,China,Asia & Pacific,Global South
+729,Hong Kong,Asia & Pacific,Global South
+733,India,Asia & Pacific,Global South
+736,Japan,Asia & Pacific,Global North
+738,Kazakhstan,Asia & Pacific,Global North
+743,Kyrgyzstan,Asia & Pacific,Global South
+747,Macau,Asia & Pacific,Global South
+749,Malaysia,Asia & Pacific,Global South
+750,Maldives,Asia & Pacific,Global South
+751,Mongolia,Asia & Pacific,Global South
+755,Nepal,Asia & Pacific,Global South
+764,Pakistan,Asia & Pacific,Global South
+766,Philippines,Asia & Pacific,Global South
+776,Singapore,Asia & Pacific,Global North
+781,Taiwan,Asia & Pacific,Global North
+782,Thailand,Asia & Pacific,Global South
+783,Tajikistan,Asia & Pacific,Global South
+785,Turkmenistan,Asia & Pacific,Global South
+788,Uzbekistan,Asia & Pacific,Global South
+791,Vietnam,Asia & Pacific,Global South
+800,American Samoa,Asia & Pacific,Global South
+801,Antarctica,Asia & Pacific,Global South
+802,Australia,Asia & Pacific,Global North
+803,Christmas Island,Asia & Pacific,Global South
+804,Papua New Guinea,Asia & Pacific,Global South
+812,Cocos (Keeling) Islands,Asia & Pacific,Global South
+813,Cook Islands,Asia & Pacific,Global South
+817,Tuvalu,Asia & Pacific,Global South
+823,French Polynesia,Asia & Pacific,Global South
+824,Kiribati,Asia & Pacific,Global South
+826,Guam,Asia & Pacific,Global South
+832,Indonesia,Asia & Pacific,Global South
+841,Northern Mariana Islands,Asia & Pacific,Global South
+843,Marshall Islands,Asia & Pacific,Global South
+844,Marshall Islands,Asia & Pacific,Global South
+845,Nauru,Asia & Pacific,Global South
+846,New Caledonia,Asia & Pacific,Global South
+851,New Zealand,Asia & Pacific,Global North
+852,Niue,Asia & Pacific,Global South
+853,Norfolk Island,Asia & Pacific,Global South
+854,Palau,Asia & Pacific,Global South
+862,Timor-Leste,Asia & Pacific,Global South
+874,Solomon Islands,Asia & Pacific,Global South
+881,Tonga,Asia & Pacific,Global South
+885,Vanuatu,Asia & Pacific,Global South
+892,Samoa,Asia & Pacific,Global South
+975,Greenland,Europe,Global North
+977,Saint Pierre and Miquelon,North America,Global North
