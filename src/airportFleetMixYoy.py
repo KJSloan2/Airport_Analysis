@@ -1,13 +1,9 @@
-import numpy as np
-import csv
-import math
-import pandas as pd
-import time
-import os
-from os import listdir
-from os.path import isfile, join
+#Import json for storing and writing airport stats
 import json
+#Import pandas for handeling dataframes
+import pandas as pd
 
+######################################################################################
 '''function for checking the encoding of data
 the proper encoding type will be returned eg utf-8 or cp1252'''
 def check_encoding(file2check):
@@ -17,40 +13,43 @@ def check_encoding(file2check):
 	file_info.close()
 	print(file_encoding)
 	return str(file_encoding)
-
+######################################################################################
 #read reference tables for unique carrier designations
-ucRef_ = pd.read_csv(str("%s%s" % (r"00_resoures\\","L_UNIQUE_CARRIERS.csv")),encoding="utf-8", low_memory=False)
+path_ucRef = str("%s%s" % (r"airports/00_resources/","L_UNIQUE_CARRIERS.csv"))
+ucRef_ = pd.read_csv(path_ucRef,encoding=check_encoding(path_ucRef))
 ucRef_uniqueCarrier = list(ucRef_["Code"])
 ucRef_uniqueCarrierName = list(ucRef_["Description"])
-
+######################################################################################
 #read reference tables for airport type designations
-aptRef_fname = str("%s%s" % (r"00_resoures\\","Airports_Type.csv"))
-aptRef_ = pd.read_csv(aptRef_fname,encoding=check_encoding(aptRef_fname), low_memory=False)
+path_aptRef = str("%s%s" % (r"airports/00_resources/","REF_AIRPORT_TYPE.csv"))
+aptRef_ = pd.read_csv(path_aptRef,check_encoding(path_aptRef))
 aptRef_iataCode = list(aptRef_["IATA_CODE"])
 aptRef_type = list(aptRef_["TYPE"])
 selectType = "large_airport"
 idx_selectType = [i for i, v in enumerate(aptRef_type) if v == selectType]
 get_iataCode = list(map(lambda idx: aptRef_iataCode[idx],idx_selectType))
-
+######################################################################################
 #read reference tables for airfcrast type designations
-actRef_ = pd.read_csv(str("%s%s" % (r"00_resoures\\""L_AIRCRAFT_TYPE.csv")),encoding="utf-8", low_memory=False)
+path_actRef = str("%s%s" % (r"airports/00_resources/","L_AIRCRAFT_TYPE.csv"))
+actRef_ = pd.read_csv(path_actRef,check_encoding(path_actRef))
 actRef_code = list(actRef_["CODE"])
 actRef_desc = list(actRef_["DESCRIPTION"])
 actRef_make = list(actRef_["MAKE"])
 actRef_hasDetails = list(actRef_["HAS_DETAILS"])
 actRef_seats = list(actRef_["SEATS"])
 actRef_seatGroup = list(actRef_["SEAT_GROUP"])
-
+######################################################################################
 #read reference tables for global airports information
-airportRef_ = pd.read_csv(str("%s%s" % (r"00_resoures\\","Airports_Global.csv")),encoding="utf-8", low_memory=False)
+path_aptGlobalRef = str("%s%s" % (r"airports/00_resources/","Airports_Global.csv"))
+airportRef_ = pd.read_csv(path_aptGlobalRef,encoding=check_encoding(path_aptGlobalRef))
 airportRef_nameLong = list(airportRef_["NAME_LONG"])
 airportRef_nameShort = list(airportRef_["NAME_SHORT"])
 airportRef_countryName = list(airportRef_["COUNTRY_NAME"])
-airportRef_locId = list(airportRef_["LOCID_1"])
+airportRef_locId = list(airportRef_["LOCID"])
 airportRef_lat = list(airportRef_["LAT"])
 airportRef_lon = list(airportRef_["LON"])
 airportRef_region = list(airportRef_["REGION"])
-
+######################################################################################
 #set the names of the datasets to analyize (must be T100 segment data)
 files_ = ["T_T100_SEGMENT_ALL_CARRIER_2012.csv","T_T100_SEGMENT_ALL_CARRIER_2022.csv"]
 
@@ -60,7 +59,8 @@ operationalStats_ = {
 	"2022":{"departures_performed":0},
 	"location_metrics":{}
 	}
-
+#Create a dictionary to store airport stats
+#This cycles over a dataset of airports are creates a dict object for each airport 
 for iataCode in get_iataCode:
 	if iataCode in airportRef_locId:
 		idx = airportRef_locId.index(iataCode)
@@ -72,11 +72,12 @@ for iataCode in get_iataCode:
 			"2012":{"departures_performed":0,"aircraft":{}},
 			"2022":{"departures_performed":0,"aircraft":{}}
 		}
-
+######################################################################################
+#Read each of the designated operational metrics datasets
 for fname in files_:
 	data_year = str(((fname.split("_")[-1]).split("."))[0])
 	print(data_year)
-	data_ = pd.read_csv(str("%s%s" % (r"01_data\\",fname)),encoding="utf-8", low_memory=False)
+	data_ = pd.read_csv(str("%s%s" % (r"airports/01_data/",fname)),encoding="utf-8", low_memory=False)
 	data_uniqueCarrier = list(data_["UNIQUE_CARRIER"])
 	data_uniqueCarrierName = list(data_["UNIQUE_CARRIER_NAME"])
 	data_aircraftType = list(data_["AIRCRAFT_TYPE"])
@@ -145,6 +146,9 @@ for fname in files_:
 				operationalStats_["location_metrics"][locidKey][data_year]["aircraft"][actKey]["prct_airport_departures"] = round(
 					((operationalStats_["location_metrics"][locidKey][data_year]["aircraft"][actKey]["departures_performed"]/operationalStats_["location_metrics"][locidKey][data_year]["departures_performed"])*100)
 					,2)
-			
-with open(str("%s%s%s%s" % (r"02_output_interum\\","origin_fleet_","2012-2022",".json")), "w", encoding='utf-8') as json_output:
+				
+######################################################################################
+with open(str("%s%s%s%s" % (r"airports/02_output/","origin_fleet_","2012-2022",".json")), "w", encoding='utf-8') as json_output:
 	json_output.write(json.dumps(operationalStats_, indent=4, ensure_ascii=False))
+######################################################################################
+print("DONE")
